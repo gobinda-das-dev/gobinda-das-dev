@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobinda-das-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gobinda-das-dev" /> </p>
 
-- 🌱 I’m currently learning **React, GSAP, Barba**
+- 🌱 I’m currently learning **Svelte, Astro**
 
-- 💬 Ask me about **Web developement**
+- 💬 Ask me about **Web Developement**
 
-- 📫 How to reach me **gobinda993720@gmail.com**
+- 📫 How to reach me **hello@gobinda-das.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
